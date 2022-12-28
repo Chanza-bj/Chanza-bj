@@ -1,6 +1,3 @@
-<a href="https://www.youtube.com/dataprofessor?sub_confirmation=1">
-  <img width="100%" src="https://media.licdn.com/dms/image/D4D03AQH61ayXJMFk-Q/profile-displayphoto-shrink_800_800/0/1666010376613?e=1677715200&v=beta&t=zLAUqE1T5R1H-pjeKNGDWXpYliFKPntQ041dUAFuiN4">
-</a>
 
 ## **Biography**
 
